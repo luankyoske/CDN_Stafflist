@@ -26,3 +26,4 @@ SAHAKU
 Karelఌ
 NW7417
 X I N G
+dummy_man_mag
