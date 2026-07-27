@@ -18,11 +18,11 @@ Sotachang
 mashi_ro
 69d74
 cerisier88
-な な さ か
 シャル・ロゼルタ
 まだぬき
 しなしなとまと
 KIЯLIIS
 ruga800
 ぐだもん
-dummy_mag
+vanilla_snow
+dummy_man_mag
