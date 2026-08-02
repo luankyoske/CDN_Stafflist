@@ -25,4 +25,6 @@ KIЯLIIS
 ruga800
 ぐだもん
 vanilla_snow
+Louise_F
+花相凛華
 dummy_man_mag
